@@ -8,4 +8,11 @@ Although I do have my old project code with me,I thought it would be better if I
 
 Here's a link to the game! https://www.mathsisfun.com/games/connect4.html
 
+
+Changes before re-uploading:
+
 Change 1:Adding a link to a site where you can view the rules of the game and also,play against AI. I'm also learning to use Github through this.
+
+Changes after re-uploading:
+
+ETA 1: I had originally uploaded this repository around the same time as 2048(24th June,2020). However, a friend of mine was not able to view it for some reason, and suggested uploading the files again. I have not made any changes to the code while re-uploading.
